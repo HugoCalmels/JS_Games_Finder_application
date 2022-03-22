@@ -1,0 +1,22 @@
+{
+  "name": "js_games_finder_api_more",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss/main.scss src/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoCalmels/JS_Games_Finder_API_more.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoCalmels/JS_Games_Finder_API_more/issues"
+  },
+  "homepage": "https://github.com/HugoCalmels/JS_Games_Finder_API_more#readme",
+  "dependencies": {
+    "sass": "^1.49.9"
+  }
+}
